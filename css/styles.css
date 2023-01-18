@@ -1,0 +1,72 @@
+.colorPersonalizado {
+
+    background-color: #268513;
+    color: aliceblue;
+}
+
+.footerColorPersonalizado {
+
+    background-color: #268513;
+    color: aliceblue;
+}
+
+
+.banner {
+    height: 400px;
+}
+
+.logo {
+    width: 50px;
+}
+
+.footer {
+
+    background-color: #121111;
+    border-top-right-radius: 183%;
+    border-top-left-radius: 183%;
+}
+
+.cintillo {
+    background-color: #121111;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.navbar-nav li a {
+    color: azure;
+}
+
+.centrado {
+    justify-content: space-between;
+}
+
+.ajuste {
+    width: 500px;
+    background: #268513;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.card {
+    margin: 5px;
+    width: 40rem;
+}
+
+h6 {
+    text-align: center;
+}
+
+#floatingTextarea {
+    height: 300px;
+}
+
+
+
+
+        
